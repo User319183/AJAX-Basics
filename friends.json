@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Friend Alpha",
+    "relationship": "college friend",
+    "hobbies": [
+      "hiking",
+      "painting",
+      "board games"
+    ],
+    "contact": "private",
+    "skills": [
+      "UX Design",
+      "Wireframing",
+      "Sketching"
+    ],
+    "location": "USA"
+  },
+  {
+    "name": "Friend Bravo",
+    "relationship": "cousin",
+    "hobbies": [
+      "bouldering",
+      "3D printing",
+      "cooking"
+    ],
+    "contact": "private",
+    "skills": [
+      "Python",
+      "CAD",
+      "Electronics"
+    ],
+    "location": "USA"
+  },
+  {
+    "name": "Friend Charlie",
+    "relationship": "teammate",
+    "hobbies": [
+      "running",
+      "sci-fi novels",
+      "photography"
+    ],
+    "contact": "private",
+    "skills": [
+      "Project Management",
+      "Scrum",
+      "Public Speaking"
+    ],
+    "location": "USA"
+  },
+  {
+    "name": "Friend Delta",
+    "relationship": "gaming buddy",
+    "hobbies": [
+      "MMORPGs",
+      "espresso",
+      "cycling"
+    ],
+    "contact": "private",
+    "skills": [
+      "C++",
+      "Game Strategy",
+      "Speedrunning"
+    ],
+    "location": "USA"
+  },
+  {
+    "name": "Friend Echo",
+    "relationship": "neighbor",
+    "hobbies": [
+      "baking",
+      "yoga",
+      "travel vlogs"
+    ],
+    "contact": "private",
+    "skills": [
+      "Sourdough",
+      "Food Styling",
+      "Video Editing"
+    ],
+    "location": "USA"
+  }
+]
